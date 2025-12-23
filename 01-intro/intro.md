@@ -51,3 +51,11 @@ https://api.example.com/users
         - Body (JSON data)  
 
 ---
+### 5️⃣ What is Postman?  
+
+Postman is an API client tool used to:  
+- Test REST APIs
+- Send HTTP requests
+- Validate responses
+- Automate API testing
+- Share API collections with teams
