@@ -16,6 +16,6 @@ Send a GET request and understand request-response flow.
 - Status Code: 200 OK
 - JSON response showing query parameters in `args`  
 
-![firstlab](assets/images/03-firstlab/01.png)  
+![firstlab](../assets/images/03-firstlab/01.png)  
 
 This confirms Postman is working correctly.

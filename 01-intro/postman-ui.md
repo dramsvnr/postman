@@ -35,7 +35,7 @@ Postman provides a clean and intuitive interface that helps users easily build, 
 ---
 
 ### 4️⃣ Response Panel
-![Postman Response Panel](assets/images/postman-response-panel.png)
+![Postman Response Panel](../assets/images/postman-response-panel.png)
 
 - Displays server response after request execution
 - Shows:
