@@ -22,6 +22,7 @@ An **API (Application Programming Interface)** acts as a **bridge** that allows 
 Example:
 ```text
 https://api.example.com/users  
+```
 
 ### 3️⃣ HTTP Methods
 | Method | Purpose     | Example Use Case     |
@@ -31,7 +32,7 @@ https://api.example.com/users
 | PUT    | Update data | Update existing user |
 | DELETE | Remove data | Delete a user        |
 
-
+---
 ### 4️⃣ Request vs Response  
 
 - Request  
