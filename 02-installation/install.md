@@ -11,4 +11,4 @@ Postman is a popular API client used to test and explore REST APIs.
 5. Choose Continue as Free user and Give Teams Name.
 
 Postman is now ready to use.
-![Launched](../assets/images/01.png)  
+![Launched](../assets/images/02.png)  
