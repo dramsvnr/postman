@@ -76,9 +76,9 @@ Expected Response
 ```
 **Key Concepts**
 
-    POST → Used to create new data
-    Request Body → Data sent to the server
-    201 Created → Resource created successfully
-    JSON → Common data format used in REST APIs
+- POST → Used to create new data
+- Request Body → Data sent to the server
+- 201 Created → Resource created successfully
+- JSON → Common data format used in REST APIs
 
 ![post-lab](../assets/images/0201.png)  
