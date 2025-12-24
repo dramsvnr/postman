@@ -53,6 +53,7 @@ https://jsonplaceholder.typicode.com/posts/1
 ```json
 {}
 ```
+![dellab](../assets/images/04.png)  
 
 **Key Concepts**
 
