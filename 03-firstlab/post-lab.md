@@ -60,8 +60,10 @@ Step 6: Send the Request
 Click Send
 
 Expected Response  
-Status Code  
-201 Created  
+
+        Status Code  
+        201 Created  
+
 ---
 **Response Body Sample**
 ```
